@@ -1,1 +1,4 @@
 GitTestTomas
+------------
+
+Playing with Git
